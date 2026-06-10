@@ -6,8 +6,8 @@ A passionate full-stack developer specializing in **Flutter**, **Node.js**, and 
 
 **Frontend:** Flutter, Dart, GetX/BLoC, Firebase
 **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
-**ML/AI:** Python, TensorFlow, scikit-learn, Data Analysis
-**DevOps & Tools:** Docker, GitHub Actions, Firebase, Render, Git
+**ML/AI:** Python, Fast API
+**DevOps & Tools:** GitHub Actions, Firebase, Git, Azure
 
 ## 📌 Featured Projects
 
@@ -50,7 +50,7 @@ A passionate full-stack developer specializing in **Flutter**, **Node.js**, and 
 ## 📫 Let's Connect
 
 - **Email:** bhavyagajjar2640@gmail.com
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** www.linkedin.com/in/bhavya-gajjar
 - **Portfolio:** your-portfolio-website.com
 - **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
 
